@@ -1,0 +1,26 @@
+<svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="16" height="17" fill="#E5E5E5"/>
+<g id="11_Light_sign in type form" clip-path="url(#clip0_727_25421)">
+<rect width="428" height="926" transform="translate(-46 -442)" fill="white"/>
+<g id="Auto Layout Vertical">
+<g id="Auto Layout Vertical_2">
+<g id="Auto Layout Vertical_3">
+<g id="Status=Active, Type=Password, State=Active Input, Theme=Light, Component=Input Field">
+<rect x="-21.5" y="-20.8999" width="379" height="59" rx="15.5" fill="#01B763" fill-opacity="0.08"/>
+<g id="Iconly/Bold/Lock">
+<g id="Group">
+<path id="Exclude" fill-rule="evenodd" clip-rule="evenodd" d="M12.6026 4.76327V6.04106C14.0379 6.48907 15.0837 7.78838 15.0837 9.34027V13.4544C15.0837 15.3756 13.4909 16.9333 11.5272 16.9333H4.47432C2.50979 16.9333 0.916992 15.3756 0.916992 13.4544V9.34027C0.916992 7.78838 1.96362 6.48907 3.39806 6.04106V4.76327C3.40653 2.27892 5.46421 0.266602 7.98763 0.266602C10.5449 0.266602 12.6026 2.27892 12.6026 4.76327ZM8.00456 1.7158C9.72353 1.7158 11.1207 3.0822 11.1207 4.76327V5.86135H4.87993V4.74671C4.8884 3.07392 6.28559 1.7158 8.00456 1.7158ZM8.74126 12.3124C8.74126 12.7182 8.41101 13.0411 7.99609 13.0411C7.58964 13.0411 7.25939 12.7182 7.25939 12.3124V10.474C7.25939 10.0765 7.58964 9.7535 7.99609 9.7535C8.41101 9.7535 8.74126 10.0765 8.74126 10.474V12.3124Z" fill="#01B763"/>
+</g>
+</g>
+<rect x="-21.5" y="-20.8999" width="379" height="59" rx="15.5" stroke="#01B763"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_727_25421">
+<rect width="428" height="926" fill="white" transform="translate(-46 -442)"/>
+</clipPath>
+</defs>
+</svg>
